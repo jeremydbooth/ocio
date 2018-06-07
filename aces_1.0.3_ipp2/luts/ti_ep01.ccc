@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+  <ColorCorrectionCollection xmlns="urn:ASC:CDL:v1.2">
+    <!--
+    This contains cdls for all ep01
+
+    -->
+
+    <ColorCorrection  id="002/0010/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+    <ColorCorrection  id="002/0020/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+    <ColorCorrection  id="002/0030/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+    <ColorCorrection  id="002/0060/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+    <ColorCorrection  id="002/0065/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+    <ColorCorrection  id="002/0070/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+    <ColorCorrection  id="002/0080/grade">
+      <SOPNode>
+        <Slope>1.296239 1.2927 1.311061</Slope>
+        <Offset>-0.025 -0.025 -0.025</Offset>
+        <Power>1.118421 1.1 1.078934</Power>
+      </SOPNode>
+      <SatNode>
+        <Saturation>1.15</Saturation>
+      </SatNode>
+    </ColorCorrection>
+
+
+
+  </ColorCorrectionCollection>
